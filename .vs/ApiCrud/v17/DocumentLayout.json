@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elize\\OneDrive\\\u00C1rea de Trabalho\\.NET\\Projects\\ApiCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B97322AE-EC52-4671-8AF5-6C138365A66C}|ApiCrud.csproj|c:\\users\\elize\\onedrive\\\u00E1rea de trabalho\\.net\\projects\\apicrud\\estudantes\\estudantesrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97322AE-EC52-4671-8AF5-6C138365A66C}|ApiCrud.csproj|solutionrelative:estudantes\\estudantesrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 333,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:268018379:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 158,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudantesRotas.cs",
+              "DocumentMoniker": "C:\\Users\\elize\\OneDrive\\\u00C1rea de Trabalho\\.NET\\Projects\\ApiCrud\\Estudantes\\EstudantesRotas.cs",
+              "RelativeDocumentMoniker": "Estudantes\\EstudantesRotas.cs",
+              "ToolTip": "C:\\Users\\elize\\OneDrive\\\u00C1rea de Trabalho\\.NET\\Projects\\ApiCrud\\Estudantes\\EstudantesRotas.cs",
+              "RelativeToolTip": "Estudantes\\EstudantesRotas.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwEkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:37:07.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
